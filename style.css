@@ -1,0 +1,44 @@
+.card1{
+display: flex;
+max-width: 320px;
+margin: 5px;
+padding: 2px;
+background-color: red;
+}
+
+.card2{
+    display: flex;
+    max-width: 320px;
+    margin: 5px;
+    padding: 2px;
+    background-color: red;
+}
+
+.card3{
+    display: flex;
+    max-width: 320px;
+    margin: 5px;
+    padding: 2px;
+    background-color: red;
+}
+
+img{
+   border-radius: 25px; 
+   margin-left: 120px;
+}
+.filmes{
+    display: flexbox; 
+    background-color:aqua
+}
+button :hover{
+background-color: black;
+}
+.cartaz{
+    position: absolute;
+   top: 2px;
+}
+
+
+
+
+
